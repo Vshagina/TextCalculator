@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="summandOne">Первое слагаемое:</string>
+    <string name="summandTwo">Второе слагаемое:</string>
+    <string name="nameButton">Сложить</string>
+    <string name="name_editText">введите число</string>
+    <string name="name_editText1">введите число</string>
+</resources>
